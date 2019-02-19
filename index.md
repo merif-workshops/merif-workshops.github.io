@@ -19,4 +19,6 @@ layout: home
 
 > MERIF is an NSF-funded forum for CISE Midscale Experimental Research Infrastructure Projects.  We are planning the first education workshop, a one-and-a-half day event featuring introductions to GENI, CloudLab, Chameleon, POWDER, COSMOS/ORBIT, and SmartCities/EdgeNet!  In addition, a series of hands-on tutorials on each testbed is planned.  The workshop is geared toward educators who plan to introduce one or more of the testbeds in their courses on cloud computing, wireless, software-defined infrastructures, etc. 
 
+<br><br>
+
 *More information coming soon.*
