@@ -6,10 +6,11 @@ layout: home
 <div class="footer-col two-col-1">
     <ul class="contact-list">
         <li><br><h3>MERIF (Midscale Experimental Research Infrastructure Projects) Education Workshop</h3></li>
-        <li>Wednesday May 29 - Thursday May 30th</li>
+        <li>Wednesday May 29 - Thursday May 30th, 2019</li>
         <li>George Washington University</li>
         <li>Washington, DC</li>
         <li><br>Sponsored by the National Science Foundation</li>
+        
     </ul>
 </div>
 <div class="footer-col two-col-2">
