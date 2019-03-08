@@ -18,7 +18,7 @@ Hotel Lombardy
 
 One Washington Circle Hotel
   - Price: $189 (before 4/12/19)
-  - Please call hotel and request group GWU MERIF
+  - Booking Link: [https://reservations.verticalbooking.com/reservations/index.html?dc=6073&id_albergo=17782&lingua_int=usa&id_stile=13427&codice_roomlist=GW335](https://reservations.verticalbooking.com/reservations/index.html?dc=6073&id_albergo=17782&lingua_int=usa&id_stile=13427&codice_roomlist=GW335)
 
 State Plaza Hotel
   - Price: $224 (before 4/26/19)
