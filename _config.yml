@@ -36,7 +36,7 @@ plugins:
 # this and add the path to the pages in order as they should show up
 header_pages:
   - hotels.md
-  - index.md
+  - testbeds.md
 
 
 # google_analytics: UA-3114962-4
