@@ -37,4 +37,4 @@ Because of the need for parallel scheduling of tutorials, each attendee will onl
 
 Support for travel, hotel and meals is available via NSF grants. The application for attendance and support (if needed) will be posted here soon.  Applications must be received by Friday, April 5, 2019 and applicants will be notified of decisions with respect to attendance and support by Monday, April 8, 2019.  Hotel information is [available here](/hotels/).  
 
-<a href="https://goo.gl/forms/2BzNC9bKboYajWbu1"><b>Register now</b></a> or <a href="https://goo.gl/forms/DFij3om6mjc1SpSo2"><b>apply for a travel grant!</b></a>
+<a href="https://goo.gl/forms/2BzNC9bKboYajWbu1"><b>Registration is required to attend.</b></a> <a href="https://goo.gl/forms/DFij3om6mjc1SpSo2"><b>Travel grants are also available.</b></a>
