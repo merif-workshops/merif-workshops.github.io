@@ -15,7 +15,7 @@ layout: home
     </ul>
 </div>
 <div class="footer-col two-col-2">
-    <img src="/images/seh.jpg" width="300px" class="rounded-image-right">
+    <img src="/images/seh.jpg" width="300px" class="rounded-image-right" style="margin-top:2em">
 </div>
 </div></div>
 
