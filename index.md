@@ -9,7 +9,7 @@ layout: home
         <li>Wednesday May 29 - Thursday May 30th, 2019</li>
         <li>George Washington University</li>
         <li>Washington, DC</li>
-        <li><br><a href="https://goo.gl/forms/2BzNC9bKboYajWbu1"><b>Register now</b></a> or <a href="https://goo.gl/forms/DFij3om6mjc1SpSo2"><b>apply for a travel grant!</b></a></li>
+        <li><br><a href="https://goo.gl/forms/2BzNC9bKboYajWbu1"><b>Register now!</b></a> <img src="/assets/img/1x1.png" width="20px" height="1px"> <a href="https://goo.gl/forms/DFij3om6mjc1SpSo2"><b>Apply for a travel grant!</b></a></li>
         <li><br>Sponsored by the National Science Foundation</li>
         
     </ul>

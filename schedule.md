@@ -37,6 +37,6 @@ permalink: /schedule/
 | 08:30-10:00|	 *Introduction to Chameleon*, Jason Anderson|	 *How to Design and Run a Basic Wireless Experiment on COSMOS*, <br> Michael Sherman, Nilanjan Paul, Jakub Kolodziejski|	*Edge-Net.org: A Viral Edge Cloud*, Rick McGeer|
 | 10:00-10:30|	 *Coffee break*|	*Coffee break*|	 *Coffee break*|
 | 10:30-12:00|	 *Advanced Cloud Computing topics with Chameleon*, Jason Anderson and Paul Ruth|	*How to Instrument Resources and Collect and Analyze Larger-scale Measurements in COSMOS*, <br> Michael Sherman, Nilanjan Paul, Jakub Kolodziejski| TBD  |
-| 12:00|	 Pick up boxed lunch| |  <img src="/assets/img/1x1.png" width="400x" height="1px"> |
+| 12:00|	 Pick up boxed lunch| |  <img src="/assets/img/1x1.png" width="400px" height="1px"> |
 
 </div>
