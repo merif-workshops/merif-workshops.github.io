@@ -18,7 +18,21 @@ layout: home
 </div>
 </div></div>
 
-> MERIF is an NSF-funded forum for CISE Midscale Experimental Research Infrastructure Projects.  We are planning the first education workshop, a one-and-a-half day event featuring introductions to GENI, CloudLab, Chameleon, POWDER, COSMOS/ORBIT, and SmartCities/EdgeNet!  In addition, a series of hands-on tutorials on each testbed is planned.  The workshop is geared toward educators who plan to introduce one or more of the testbeds in their courses on cloud computing, wireless, software-defined infrastructures, etc. 
 
-<br><br>
+
+> The NSF-funded Midscale Experimental Research Infrastructure Forum (MERIF) is sponsoring a Workshop whose goal is to teach university and college faculty how to use the various NSF-funded midscale experimental testbeds in their classes. The Workshop will be held on May 29-30 at George Washington University in Washington DC.
+
+The workshop will feature instructional material for the following testbeds (see the [full descriptions](/testbeds/)):
+  - [Chameleon](http://www.chameleoncloud.org)
+  - [CloudLab](http://www.cloudlab.us)
+  - [COSMOS](https://www.cosmos-lab.org/)/[ORBIT](http://www.orbit-lab.org/)
+  - [Edge-Net](http://Edge-Net.org)
+  - [GENI](http://www.geni.net)
+  - [POWDER-RENEW](http://powderwireless.net)
+
+The Workshop will begin with short presentations that describe these testbeds including their targeted scientific areas. This will be followed by 3-hour hands-on tutorials by each of the testbeds, three during May 29, afternoon and three during May 30 morning. The Workshop will end at 1pm on May 30. A preliminary schedule is [available here](/schedule/).
+
+Because of the need for parallel scheduling of tutorials, each attendee will only be able to participate in two of the six tutorials. To optimize participation, applicants will provide a priority list when applying.  Applicants will also be asked to describe courses they expect to teach during AY2019-2020 where one or more of the testbeds might be utilized.  
+
+Support for travel, hotel and meals is available via NSF grants. The application for attendance and support (if needed) will be posted here soon.  Applications must be received by Friday, April 5, 2019 and applicants will be notified of decisions with respect to attendance and support by Monday, April 8, 2019.  Hotel information is [available here](/hotels/).  
 
