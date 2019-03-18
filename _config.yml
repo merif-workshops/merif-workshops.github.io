@@ -37,6 +37,7 @@ plugins:
 header_pages:
   - hotels.md
   - testbeds.md
+  - schedule.md
 
 
 # google_analytics: UA-3114962-4

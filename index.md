@@ -22,4 +22,3 @@ layout: home
 
 <br><br>
 
-*More information coming soon.*
