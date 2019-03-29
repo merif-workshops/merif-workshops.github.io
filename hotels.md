@@ -4,7 +4,7 @@ title: Accommodations
 permalink: /hotels/
 ---
 
-We have arranged hotel accommodations at the following locations.  You can also find rooms at your favorite travel booking agency.  The workshop will take place one block from the Foggy Bottom / GWU metro station, which is on the Orange/Blue/Silver lines.
+We have arranged hotel accommodations at the following locations. The workshop will take place one block from the Foggy Bottom / GWU metro station, which is on the Orange/Blue/Silver lines.
 
 *To receive the rates listed below, please use the provided links or contact the hotel and request the **GWU / MERIF** group rate.*
 
