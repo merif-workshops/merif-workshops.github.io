@@ -5,11 +5,11 @@ layout: home
 <div class="wrapper" markdown="0"><div class="footer-col-wrapper">
 <div class="footer-col two-col-1">
     <ul class="contact-list">
-        <li><br><h3>MERIF (Midscale Experimental Research Infrastructure Projects) Education Workshop</h3></li>
+        <li><br><h3>MERIF (Midscale Experimental Research Infrastructure Forum) Education Workshop</h3></li>
         <li>Wednesday May 29 - Thursday May 30th, 2019</li>
         <li>George Washington University</li>
         <li>Washington, DC</li>
-        <li><br><a href="https://goo.gl/forms/2BzNC9bKboYajWbu1"><b>Register now!</b></a> <img src="/assets/img/1x1.png" width="20px" height="1px"> <a href="https://goo.gl/forms/DFij3om6mjc1SpSo2"><b>Apply for a travel grant!</b></a></li>
+        <li><br>Seats are limited. <a href="https://goo.gl/forms/2BzNC9bKboYajWbu1"><b>Apply to attend the workshop</b></a>. Travel grants will be available.</li>
         <li><br>Sponsored by the National Science Foundation</li>
         
     </ul>
@@ -37,4 +37,4 @@ Because of the need for parallel scheduling of tutorials, each attendee will onl
 
 Support for travel, hotel and meals is available via NSF grants. The application for attendance and support (if needed) will be posted here soon.  Applications must be received by Friday, <del>April 5</del> **April 19**, 2019 and applicants will be notified of decisions with respect to attendance and support by Monday, <del>April 8</del> **April 22**, 2019.  Hotel information is [available here](/hotels/).  
 
-<a href="https://goo.gl/forms/2BzNC9bKboYajWbu1"><b>Registration is required to attend.</b></a> <a href="https://goo.gl/forms/DFij3om6mjc1SpSo2"><b>Travel grants are also available.</b></a>
+Use the <a href="https://goo.gl/forms/2BzNC9bKboYajWbu1"><b>Registration form to apply</b></a> to attend. You can also  <a href="https://goo.gl/forms/DFij3om6mjc1SpSo2"><b>apply for a travel grant</b></a>.
