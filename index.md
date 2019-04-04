@@ -35,6 +35,6 @@ The Workshop will begin with short presentations that describe these testbeds in
 
 Because of the need for parallel scheduling of tutorials, each attendee will only be able to participate in two of the six tutorials. To optimize participation, applicants will provide a priority list when applying.  Applicants will also be asked to describe courses they expect to teach during AY2019-2020 where one or more of the testbeds might be utilized.  
 
-Support for travel, hotel and meals is available via NSF grants. The application for attendance and support (if needed) will be posted here soon.  Applications must be received by Friday, April 5, 2019 and applicants will be notified of decisions with respect to attendance and support by Monday, April 8, 2019.  Hotel information is [available here](/hotels/).  
+Support for travel, hotel and meals is available via NSF grants. The application for attendance and support (if needed) will be posted here soon.  Applications must be received by Friday, <del>April 5</del> **April 19**, 2019 and applicants will be notified of decisions with respect to attendance and support by Monday, <del>April 8</del> **April 22**, 2019.  Hotel information is [available here](/hotels/).  
 
 <a href="https://goo.gl/forms/2BzNC9bKboYajWbu1"><b>Registration is required to attend.</b></a> <a href="https://goo.gl/forms/DFij3om6mjc1SpSo2"><b>Travel grants are also available.</b></a>
