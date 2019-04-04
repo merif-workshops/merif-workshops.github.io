@@ -9,7 +9,8 @@ layout: home
         <li>Wednesday May 29 - Thursday May 30th, 2019</li>
         <li>George Washington University</li>
         <li>Washington, DC</li>
-        <li><br>Seats are limited. <a href="https://goo.gl/forms/2BzNC9bKboYajWbu1"><b>Apply to attend the workshop</b></a>. Travel grants will be available.</li>
+        <li><br>Seats are limited. <a href="https://goo.gl/forms/2BzNC9bKboYajWbu1"><b>Apply to attend the workshop</b></a>. </li>
+    	<li><i>The travel grant deadline has been extended to April 19th.</i></li>
         <li><br>Sponsored by the National Science Foundation</li>
         
     </ul>
