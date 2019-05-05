@@ -7,6 +7,7 @@ layout: home
     <ul class="contact-list">
         <li><br><h3>MERIF (Midscale Experimental Research Infrastructure Forum) Education Workshop</h3></li>
         <li>Wednesday May 29 - Thursday May 30th, 2019</li>
+        <li>Science and Engineering Hall - B1 Lower Level</li>
         <li>George Washington University</li>
         <li>Washington, DC</li>
         <li><br>Seats are limited. <a href="https://goo.gl/forms/2BzNC9bKboYajWbu1"><b>Apply to attend the workshop</b></a>. </li>

@@ -4,7 +4,10 @@ title: Schedule
 permalink: /schedule/
 ---
 
-### Wednesday
+### Location
+The event will begin in Room B1220 in the lower level of the GW Science and Engineering Hall, located at 800 22nd St NW, one block from the Foggy Bottom Metro station.  The tutorial sessions will split up into different rooms.
+
+### Wednesday May 29
 
 <div style='font-size:90%'>
 
@@ -21,14 +24,14 @@ permalink: /schedule/
 
 | Parallel Tutorials	| Session #1 |	Session #2 |	Session #3 |
 | --- | --- | --- | --- |
-| 13:30-15:00 | *Getting Started with CloudLab*, Dmitry Duplyakin |	*A First Experiment on GENI*, Ibrahim Matta and Violet Syrotiuk |	*How to Design and Run a Basic Wireless Experiment on COSMOS*, <br> Michael Sherman, Nilanjan Paul, Jakub Kolodziejski, Tingjun Chen |
+| 13:30-15:00 | *Getting Started with CloudLab*, Dmitry Duplyakin |	*A First Experiment on GENI*, Ibrahim Matta and Violet Syrotiuk |	*How to Design and Run a Basic Wireless Experiment on COSMOS*, <br> Michael Sherman, Nilanjan Paul, Jakub Kolodziejski, Manav Kohli |
 | 15:00-15:30 |	*Coffee break* |	*Coffee break* |	*Coffee break* |
-| 15:30-17:00 |	*Experimenting with Complex Software Environments on CloudLab*, Dmitry Duplyakin |	*Experimenting with SDN and NFV on GENI*, Ibrahim Matta and Violet Syrotiuk |	*How to Instrument Resources and Collect and Analyze Larger-scale Measurements in COSMOS*, <br> Michael Sherman, Nilanjan Paul, Jakub Kolodziejski, Tingjun Chen |
+| 15:30-17:00 |	*Experimenting with Complex Software Environments on CloudLab*, Dmitry Duplyakin |	*Experimenting with SDN and NFV on GENI*, Ibrahim Matta and Violet Syrotiuk |	*How to Instrument Resources and Collect and Analyze Larger-scale Measurements in COSMOS*, <br> Michael Sherman, Nilanjan Paul, Jakub Kolodziejski, Manav Kohli |
 
 
 </div>
 
-### Thursday
+### Thursday May 30
 
 <div style='font-size:90%'>
 
