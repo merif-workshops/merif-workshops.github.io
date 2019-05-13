@@ -5,7 +5,7 @@ permalink: /schedule/
 ---
 
 ### Location
-The event will begin in Room B1220 in the lower level of the GW Science and Engineering Hall, located at 800 22nd St NW, one block from the Foggy Bottom Metro station.  The tutorial sessions will split up into different rooms.
+The event will begin in Room B1220 in the lower level of the GW Science and Engineering Hall, located at [800 22nd St NW](https://goo.gl/maps/MF9dwPWCxDzmwpc79), one block from the Foggy Bottom Metro station.  The tutorial sessions will split up into different rooms.
 
 ### Wednesday May 29
 
@@ -39,7 +39,7 @@ The event will begin in Room B1220 in the lower level of the GW Science and Engi
 | --- | --- | --- | --- |
 | 08:30-10:00|	 *Introduction to Chameleon*, Jason Anderson|	 *Remote Radio Operation with GNU Radio and POWDER*, Gary Wong |	*Edge-Net.org: A Viral Edge Cloud*, Rick McGeer|
 | 10:00-10:30|	 *Coffee break*|	*Coffee break*|	 *Coffee break*|
-| 10:30-12:00|	 *Advanced Cloud Computing topics with Chameleon*, Jason Anderson and Paul Ruth|	*Advanced Wireless Experimentation with POWDER*, Gary Wong | TBD  |
+| 10:30-12:00|	 *Advanced Cloud Computing topics with Chameleon*, Jason Anderson and Paul Ruth|	*Advanced Wireless Experimentation with POWDER*, Gary Wong |   |
 | 12:00|	 Pick up boxed lunch| |  <img src="/assets/img/1x1.png" width="400px" height="1px"> |
 
 </div>
