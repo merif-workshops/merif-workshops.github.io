@@ -5,7 +5,7 @@ permalink: /schedule/
 ---
 
 ### Location
-The event will begin in Room B1220 in the lower level of the GW Science and Engineering Hall, located at [800 22nd St NW](https://goo.gl/maps/MF9dwPWCxDzmwpc79), one block from the Foggy Bottom Metro station.  The tutorial sessions will split up into different rooms.
+The event will begin in Room B1220 in the lower level of the GW Science and Engineering Hall, located at [800 22nd St NW](https://goo.gl/maps/MF9dwPWCxDzmwpc79), one block from the Foggy Bottom Metro station.  See the [Venue](../venue) page for more details.
 
 ### Wednesday May 29
 
@@ -15,7 +15,7 @@ The event will begin in Room B1220 in the lower level of the GW Science and Engi
 | 08:15-08:30	| *Welcome from NSF*, Deep Medhi, PM at NSF CISE/CNS/NeTS |
 | 08:30-09:00	| *GENI: A Networked Infrastructure for At-Scale Experiments*, Zongming Fei, University of Kentucky |
 | 09:00-09:30	| *CloudLab: Flexible, Scientific Infrastructure for Research on the Future of Cloud Computing*, Dmitry Duplyakin, University of Utah |
-| 09:30-10:00	| *COSMOS: An Open Programmable City Scale Testbed for Evaluation of Edge-Cloud Enhanced Future Wireless Systems*, Michael Sherman, Nilanjan Paul, Jakub Kolodziejski  |
+| 09:30-10:00	| *COSMOS: An Open Programmable City Scale Testbed for Evaluation of Edge-Cloud Enhanced Future Wireless Systems*, Michael Sherman |
 | 10:00-10:30	| *Coffee break* |
 | 10:30-11:00	| *Edge-Net.org*, Rick McGeer, US-Ignite |
 | 11:00-11:30	| *Chameleon: Cloud on Cloud*, Kate Keahey, University of Chicago and Argonne National Lab |
