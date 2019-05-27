@@ -12,7 +12,7 @@ The event will begin in Room B1220 in the lower level of the GW Science and Engi
 <div style='font-size:90%'>
 
 | 07:30-08:00	| *Breakfast and Registration*, GWU Science and Engineering Hall, Lower Level |
-| 08:00-08:15	| *Welcome and Overview of the Day*, Larry Landweber, University of Wisconsin; Tim Wood, GWU; Violet Syrotiuk, ASU; Ibrahim Matta, BU |
+| 08:00-08:15	| *[Welcome and Overview of the Day](/slides/MERIF-Welcome.pptx)*, Larry Landweber, University of Wisconsin; Tim Wood, GWU; Violet Syrotiuk, ASU; Ibrahim Matta, BU |
 | 08:15-08:30	| *Welcome from NSF*, Deep Medhi, PM at NSF CISE/CNS/NeTS |
 | 08:30-09:00	| *GENI: A Networked Infrastructure for At-Scale Experiments*, Zongming Fei, University of Kentucky |
 | 09:00-09:30	| *CloudLab: Flexible, Scientific Infrastructure for Research on the Future of Cloud Computing*, Dmitry Duplyakin, University of Utah |
@@ -25,9 +25,9 @@ The event will begin in Room B1220 in the lower level of the GW Science and Engi
 
 | Parallel Tutorials	| Session #1 |	Session #2 |	Session #3 |
 | --- | --- | --- | --- |
-| 13:30-15:00 | *Getting Started with CloudLab*, Dmitry Duplyakin |	*A First Experiment on GENI*, Ibrahim Matta and Violet Syrotiuk |	*How to Design and Run a Basic Wireless Experiment on COSMOS*, <br> Michael Sherman, Nilanjan Paul, Jakub Kolodziejski, Manav Kohli |
+| 13:30-15:00 | *Getting Started with CloudLab*, Dmitry Duplyakin |	*[A First Experiment on GENI](/slides/Intro-to-GENI-MERIF.pptx)*, Ibrahim Matta and Violet Syrotiuk |	*How to Design and Run a Basic Wireless Experiment on COSMOS*, <br> Michael Sherman, Nilanjan Paul, Jakub Kolodziejski, Manav Kohli |
 | 15:00-15:30 |	*Coffee break* |	*Coffee break* |	*Coffee break* |
-| 15:30-17:00 |	*Experimenting with Complex Software Environments on CloudLab*, Dmitry Duplyakin |	*Experimenting with SDN and NFV on GENI*, Ibrahim Matta and Violet Syrotiuk |	*How to Instrument Resources and Collect and Analyze Larger-scale Measurements in COSMOS*, <br> Michael Sherman, Nilanjan Paul, Jakub Kolodziejski, Manav Kohli |
+| 15:30-17:00 |	*Experimenting with Complex Software Environments on CloudLab*, Dmitry Duplyakin |	*[Experimenting with SDN and NFV on GENI](http://tinyurl.com/geninfv)*, Ibrahim Matta and Violet Syrotiuk |	*How to Instrument Resources and Collect and Analyze Larger-scale Measurements in COSMOS*, <br> Michael Sherman, Nilanjan Paul, Jakub Kolodziejski, Manav Kohli |
 
 
 </div>
