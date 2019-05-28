@@ -14,7 +14,7 @@ The event will begin in Room B1220 in the lower level of the GW Science and Engi
 | 07:30-08:00	| *Breakfast and Registration*, GWU Science and Engineering Hall, Lower Level |
 | 08:00-08:15	| *[Welcome and Overview of the Day](/slides/MERIF-Welcome.pptx)*, Larry Landweber, University of Wisconsin; Tim Wood, GWU; Violet Syrotiuk, ASU; Ibrahim Matta, BU |
 | 08:15-08:30	| *Welcome from NSF*, Deep Medhi, PM at NSF CISE/CNS/NeTS |
-| 08:30-09:00	| *GENI: A Networked Infrastructure for At-Scale Experiments*, Zongming Fei, University of Kentucky |
+| 08:30-09:00	| *[GENI: A Networked Infrastructure for At-Scale Experiments](slides/merif2019_geni.pptx)*, Zongming Fei, University of Kentucky |
 | 09:00-09:30	| *CloudLab: Flexible, Scientific Infrastructure for Research on the Future of Cloud Computing*, Dmitry Duplyakin, University of Utah |
 | 09:30-10:00	| *COSMOS: An Open Programmable City Scale Testbed for Evaluation of Edge-Cloud Enhanced Future Wireless Systems*, Michael Sherman |
 | 10:00-10:30	| *Coffee break* |
