@@ -23,7 +23,7 @@ The event will begin in Room B1220 in the lower level of the GW Science and Engi
 | 11:30-12:00	| *[POWDER and Wireless Networking Experimentation](/slides/powder.pdf)*, Gary Wong, University of Utah |
 | 12:00-13:30	| *Lunch* |
 
-| Parallel Tutorials	| Session #1 |	Session #2 |	Session #3 |
+| Parallel Tutorials	| Session #1 (SEH 1300) |	Session #2  (SEH 1400) |	Session #3 (SEH 1450) |
 | --- | --- | --- | --- |
 | 13:30-15:00 | *Getting Started with CloudLab*, Dmitry Duplyakin |	*[A First Experiment on GENI](/slides/Intro-to-GENI-MERIF.pptx)*, Ibrahim Matta and Violet Syrotiuk |	*How to Design and Run a Basic Wireless Experiment on COSMOS*, <br> Michael Sherman, Nilanjan Paul, Jakub Kolodziejski, Manav Kohli |
 | 15:00-15:30 |	*Coffee break* |	*Coffee break* |	*Coffee break* |
@@ -38,7 +38,7 @@ The event will begin in Room B1220 in the lower level of the GW Science and Engi
 | 08:00-08:30	| *Breakfast and Registration*, GWU Science and Engineering Hall, Lower Level |
 
 
-| Parallel Tutorials	| Session #1 |	Session #2 |	Session #3 |
+| Parallel Tutorials	| Session #1 (SEH 1300) |	Session #2  (SEH 1400) |	Session #3 (SEH 1450) |
 | --- | --- | --- | --- |
 | 08:30-10:00|	 *Introduction to Chameleon*, Jason Anderson|	 *[Remote Radio Operation with GNU Radio and POWDER](/slides/powder-notes-1.pdf)*, Gary Wong |	*Edge-Net.org: A Viral Edge Cloud*, Rick McGeer|
 | 10:00-10:30|	 *Coffee break*|	*Coffee break*|	 *Coffee break*|
