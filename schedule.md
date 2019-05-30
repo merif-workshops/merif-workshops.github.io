@@ -16,7 +16,7 @@ The event will begin in Room B1220 in the lower level of the GW Science and Engi
 | 08:15-08:30	| *Welcome from NSF*, Deep Medhi, PM at NSF CISE/CNS/NeTS |
 | 08:30-09:00	| *[GENI: A Networked Infrastructure for At-Scale Experiments](/slides/merif2019_geni.pptx)*, Zongming Fei, University of Kentucky |
 | 09:00-09:30	| *CloudLab: Flexible, Scientific Infrastructure for Research on the Future of Cloud Computing*, Dmitry Duplyakin, University of Utah - [Overview](/slides/cloudlab-overview-merif.pptx) - [Recent Research](/slides/CloudLab-RecentResearch-Intro.pdf) |
-| 09:30-10:00	| *COSMOS: An Open Programmable City Scale Testbed for Evaluation of Edge-Cloud Enhanced Future Wireless Systems*, Michael Sherman |
+| 09:30-10:00	| *[COSMOS: An Open Programmable City Scale Testbed for Evaluation of Edge-Cloud Enhanced Future Wireless Systems](/slides/2019-05-28-ORBIT-COSMOS-Intro.pptx)*, Michael Sherman |
 | 10:00-10:30	| *Coffee break* |
 | 10:30-11:00	| *Edge-Net.org*, Rick McGeer, US-Ignite |
 | 11:00-11:30	| *Chameleon: Cloud on Cloud*, Kate Keahey, University of Chicago and Argonne National Lab |
@@ -25,9 +25,9 @@ The event will begin in Room B1220 in the lower level of the GW Science and Engi
 
 | Parallel Tutorials	| Session #1 (SEH 1300) |	Session #2  (SEH 1400) |	Session #3 (SEH 1450) |
 | --- | --- | --- | --- |
-| 13:30-15:00 | *Getting Started with CloudLab*, Dmitry Duplyakin |	*[A First Experiment on GENI](/slides/Intro-to-GENI-MERIF.pptx)*, Ibrahim Matta and Violet Syrotiuk |	*How to Design and Run a Basic Wireless Experiment on COSMOS*, <br> Michael Sherman, Nilanjan Paul, Jakub Kolodziejski, Manav Kohli |
+| 13:30-15:00 | *Getting Started with CloudLab*, Dmitry Duplyakin |	*[A First Experiment on GENI](/slides/Intro-to-GENI-MERIF.pptx)*, Ibrahim Matta and Violet Syrotiuk |	*[How to Design and Run a Basic Wireless Experiment on COSMOS](/slides/2019-05-28-MERIF-Workshop-Tutorial-1.pptx)*, <br> Michael Sherman, Nilanjan Paul, Jakub Kolodziejski, Manav Kohli |
 | 15:00-15:30 |	*Coffee break* |	*Coffee break* |	*Coffee break* |
-| 15:30-17:00 |	*Experimenting with Complex Software Environments on CloudLab*, Dmitry Duplyakin |	*[Experimenting with SDN and NFV on GENI](http://tinyurl.com/geninfv)*, Ibrahim Matta and Violet Syrotiuk |	*How to Instrument Resources and Collect and Analyze Larger-scale Measurements in COSMOS*, <br> Michael Sherman, Nilanjan Paul, Jakub Kolodziejski, Manav Kohli |
+| 15:30-17:00 |	*Experimenting with Complex Software Environments on CloudLab*, Dmitry Duplyakin |	*[Experimenting with SDN and NFV on GENI](http://tinyurl.com/geninfv)*, Ibrahim Matta and Violet Syrotiuk |	*[How to Instrument Resources and Collect and Analyze Larger-scale Measurements in COSMOS](/slides/2019-05-28-MERIF-Workshop-Tutorial-2.pptx)*, <br> Michael Sherman, Nilanjan Paul, Jakub Kolodziejski, Manav Kohli |
 
 
 </div>
