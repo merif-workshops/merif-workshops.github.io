@@ -25,9 +25,9 @@ The event will begin in Room B1220 in the lower level of the GW Science and Engi
 
 | Parallel Tutorials	| Session #1 (SEH 1300) |	Session #2  (SEH 1400) |	Session #3 (SEH 1450) |
 | --- | --- | --- | --- |
-| 13:30-15:00 | *Getting Started with CloudLab*, Dmitry Duplyakin |	*[A First Experiment on GENI](/slides/Intro-to-GENI-MERIF.pptx)*, Ibrahim Matta and Violet Syrotiuk |	*[How to Design and Run a Basic Wireless Experiment on COSMOS](/slides/2019-05-28-MERIF-Workshop-Tutorial-1.pptx)*, <br> Michael Sherman, Nilanjan Paul, Jakub Kolodziejski, Manav Kohli |
+| 13:30-15:00 | *[Getting Started with CloudLab](http://docs.cloudlab.us/openstack-tutorial.html)*, Dmitry Duplyakin |	*[A First Experiment on GENI](/slides/Intro-to-GENI-MERIF.pptx)*, Ibrahim Matta and Violet Syrotiuk |	*[How to Design and Run a Basic Wireless Experiment on COSMOS](/slides/2019-05-28-MERIF-Workshop-Tutorial-1.pptx)*, <br> Michael Sherman, Nilanjan Paul, Jakub Kolodziejski, Manav Kohli |
 | 15:00-15:30 |	*Coffee break* |	*Coffee break* |	*Coffee break* |
-| 15:30-17:00 |	*Experimenting with Complex Software Environments on CloudLab*, Dmitry Duplyakin |	*[Experimenting with SDN and NFV on GENI](http://tinyurl.com/geninfv)*, Ibrahim Matta and Violet Syrotiuk |	*[How to Instrument Resources and Collect and Analyze Larger-scale Measurements in COSMOS](/slides/2019-05-28-MERIF-Workshop-Tutorial-2.pptx)*, <br> Michael Sherman, Nilanjan Paul, Jakub Kolodziejski, Manav Kohli |
+| 15:30-17:00 |	*[Experimenting with Complex Software Environments on CloudLab](http://docs.cloudlab.us/chef-tutorial.html)*, Dmitry Duplyakin |	*[Experimenting with SDN and NFV on GENI](http://tinyurl.com/geninfv)*, Ibrahim Matta and Violet Syrotiuk |	*[How to Instrument Resources and Collect and Analyze Larger-scale Measurements in COSMOS](/slides/2019-05-28-MERIF-Workshop-Tutorial-2.pptx)*, <br> Michael Sherman, Nilanjan Paul, Jakub Kolodziejski, Manav Kohli |
 
 
 </div>
