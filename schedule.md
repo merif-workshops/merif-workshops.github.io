@@ -19,7 +19,7 @@ The event will begin in Room B1220 in the lower level of the GW Science and Engi
 | 09:30-10:00	| *[COSMOS: An Open Programmable City Scale Testbed for Evaluation of Edge-Cloud Enhanced Future Wireless Systems](/slides/2019-05-28-ORBIT-COSMOS-Intro.pptx)*, Michael Sherman |
 | 10:00-10:30	| *Coffee break* |
 | 10:30-11:00	| *[Edge-Net.org](https://docs.google.com/presentation/d/1eeWsCz0iU_Cqeq-hgAknT2j3vJoyXV0C_3SLQ01yJZo/edit#slide=id.p1)*, Rick McGeer, US-Ignite |
-| 11:00-11:30	| *Chameleon: Cloud on Cloud*, Kate Keahey, University of Chicago and Argonne National Lab |
+| 11:00-11:30	| *[Chameleon: Cloud on Cloud](/slides/Chameleon-MERIF.pdf)*, Kate Keahey, University of Chicago and Argonne National Lab |
 | 11:30-12:00	| *[POWDER and Wireless Networking Experimentation](/slides/powder.pdf)*, Gary Wong, University of Utah |
 | 12:00-13:30	| *Lunch* |
 
@@ -40,9 +40,9 @@ The event will begin in Room B1220 in the lower level of the GW Science and Engi
 
 | Parallel Tutorials	| Session #1 (SEH 1300) |	Session #2  (SEH 1400) |	Session #3 (SEH 1450) |
 | --- | --- | --- | --- |
-| 08:30-10:00|	 *Introduction to Chameleon*, Jason Anderson|	 *[Remote Radio Operation with GNU Radio and POWDER](/slides/powder-notes-1.pdf)*, Gary Wong |	*[Edge-Net.org](https://docs.google.com/presentation/d/1r1zrdd0w7qdSJyNeX6UTFJ74P2brj0d3WV07OHpH6Bw/edit#slide=id.p1): A Viral Edge Cloud*, Rick McGeer|
+| 08:30-10:00|	 *[Introduction to Chameleon](https://jupyter.chameleoncloud.org/hub/user-redirect/lab/tree/notebooks/tutorials/getting-started/IntroductionToChameleon.ipynb)* (requires [registration](https://chameleoncloud.readthedocs.io/en/latest/getting-started/index.html#step-1-create-a-chameleon-account), Jason Anderson|	 *[Remote Radio Operation with GNU Radio and POWDER](/slides/powder-notes-1.pdf)*, Gary Wong |	*[Edge-Net.org](https://docs.google.com/presentation/d/1r1zrdd0w7qdSJyNeX6UTFJ74P2brj0d3WV07OHpH6Bw/edit#slide=id.p1): A Viral Edge Cloud*, Rick McGeer|
 | 10:00-10:30|	 *Coffee break*|	*Coffee break*|	 *Coffee break*|
-| 10:30-12:00|	 *Advanced Cloud Computing topics with Chameleon*, Jason Anderson and Paul Ruth|	*[Advanced Wireless Experimentation with POWDER](/slides/powder-notes-2.pdf)*, Gary Wong |   |
+| 10:30-12:00|	 *[Advanced Cloud Computing topics with Chameleon](https://jupyter.chameleoncloud.org/hub/user-redirect/lab/tree/notebooks/tutorials/networking/Tutorial-DirectStitch.ipynb)*, Jason Anderson and Paul Ruth|	*[Advanced Wireless Experimentation with POWDER](/slides/powder-notes-2.pdf)*, Gary Wong |   |
 | 12:00|	 Pick up boxed lunch| |  <img src="/assets/img/1x1.png" width="400px" height="1px"> |
 
 </div>
